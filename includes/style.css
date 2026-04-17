@@ -1,0 +1,313 @@
+TD.menu
+{
+    BACKGROUND: #EDEDED
+}
+TD.unmenu
+{
+    BACKGROUND: #FFFFFF
+}
+
+BODY
+{
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 11px;
+	COLOR: #4F4F4F;
+	FONT-FAMILY: Verdana, Geneva, Sans-serif;
+}
+
+textarea
+{
+  font-size: 11px;
+  text-align: left;
+  color: #4F4F4F;
+  font-family: verdana, helvetica, sans-serif;
+  width: 90%;
+  height: 100%;
+}
+
+input
+{
+  font-size: 11px;
+  color: #4F4F4F;
+  font-family: verdana, helvetica, sans-serif;
+}
+
+TABLE
+{
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 11px;
+	COLOR: #4F4F4F;
+	FONT-FAMILY: Verdana, Geneva, Sans-serif;
+	cellpadding: 5px
+}
+
+.table_header.table
+{
+	border: 0;
+	cellpadding: 3px;
+	cellspacing: 1px;
+	bgcolor: #000000;
+}
+
+
+.header
+{
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 14px;
+	COLOR: #FF6532;
+	FONT-FAMILY: Verdana, Geneva, Sans-serif;
+}
+
+A.forum_link
+{
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 11px;
+	COLOR: #40617B;
+	FONT-FAMILY: Verdana, Geneva, Sans-serif;
+}
+A.forum_link:hover
+{
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 11px;
+	COLOR: #FF6633;
+	text-decoration: none;
+	FONT-FAMILY: Verdana, Geneva, Sans-serif;
+}
+A.forum_link:visited
+{
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 11px;
+	COLOR: #40617B;
+	FONT-FAMILY: Verdana, Geneva, Sans-serif;
+}
+A.forum_link:visited:hover
+{
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 11px;
+	COLOR: #FF6633;
+	text-decoration: none;
+	FONT-FAMILY: Verdana, Geneva, Sans-serif;
+}
+
+.warning
+{
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 11px;
+	COLOR: #FF0000;
+	FONT-FAMILY: Verdana, Geneva, Sans-serif;
+}
+
+.title
+{
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 13px;
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Verdana, Geneva, Sans-serif;
+}
+
+.inc_note
+{
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 11px;
+	COLOR: #EDEDED;
+	FONT-FAMILY: Verdana, Geneva, Sans-serif;
+}
+
+.sub_menu
+{
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 11px;
+	COLOR: #FF6633;
+	FONT-FAMILY: Verdana, Geneva, Sans-serif;
+}
+
+.news_inc_info
+{
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 11px;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Geneva, Sans-serif;
+}
+
+
+
+A
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: #40617B;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;;
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;;
+    TEXT-DECORATION: none
+}
+A:visited
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: #40617B;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;;
+    TEXT-DECORATION: none
+}
+A:visited:hover
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;
+    TEXT-DECORATION: none
+}
+
+
+
+A.inc_link
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: #EDEDED;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;;
+    TEXT-DECORATION: none
+}
+A.inc_link:hover
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;;
+    TEXT-DECORATION: none
+}
+A.inc_link:visited
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: #EDEDED;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;;
+    TEXT-DECORATION: none
+}
+A.inc_link:visited:hover
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;
+    TEXT-DECORATION: none
+}
+
+
+
+A.menu
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: #40617B;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;
+    TEXT-DECORATION: none
+}
+A.menu:hover
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;
+    TEXT-DECORATION: none
+}
+A.menu:visited
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: #40617B;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;
+    TEXT-DECORATION: none
+}
+A.menu:visited:hover
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;
+    TEXT-DECORATION: none
+}
+
+
+
+
+
+A.news
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 15px;
+    COLOR: #DDDAEC;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;;
+    TEXT-DECORATION: none
+}
+A.news:hover
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 15px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;;
+    TEXT-DECORATION: none
+}
+A.news:visited
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 15px;
+    COLOR: #DDDAEC;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;;
+    TEXT-DECORATION: none
+}
+A.news:visited:hover
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 15px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;
+    TEXT-DECORATION: none
+}
+
+
+
+A.latest_posts
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: #40617B;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;;
+    TEXT-DECORATION: none
+}
+A.latest_posts:hover
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;;
+    TEXT-DECORATION: none
+}
+A.latest_posts:visited
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: #40617B;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;;
+    TEXT-DECORATION: none
+}
+A.latest_posts:visited:hover
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Geneva, Sans-serif;
+    TEXT-DECORATION: none
+}
+
+
+UL
+{
+    LIST-STYLE-TYPE: square
+}

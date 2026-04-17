@@ -1,0 +1,24 @@
+WebHost Setup
+---------------------------
+
+To setup WebHost, upload everything in this directory to 
+your host server (keep the same directory structure that it came 
+with - IMPORTANT).
+
+Set the following permissions:
+
+chmod 777 webhost   (this is the root directory of WebHost).
+chmod 777 includes   (this is the includes directory in the  WebHost Directory.
+
+Next, open up a web browser to the website where WebHost
+will be and go to the first_run.php page:
+
+www.your_domain.com/first_run.php.
+
+The installation wizard will guide you from there.
+
+Once you are finished with the wizard, rename first_run.php to first_run.php.bak so that
+no one can execute it again - while you're at it, for extra security, you may as well move
+it to a directory out of the public internet directory.  If you need to reconfigure  
+WebHost again, just copy first_run.php.bak back to the  WebHost root directory and rename it
+back to first_run.php.
