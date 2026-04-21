@@ -65,11 +65,6 @@ chmod 777 includes
 http://localhost/webhost/first_run.php
 </pre>
 
-<ol start="5">
-  <li><p>Follow the installation wizard خطوات.</p></li>
-  <li><p>بعد الانتهاء، قم بإعادة تسمية الملف:</p></li>
-</ol>
-
 <pre>
 first_run.php → first_run.php.bak
 </pre>
